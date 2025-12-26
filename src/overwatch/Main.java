@@ -16,6 +16,7 @@ public class Main {
 		System.out.println(persona1.getNombre() + " es de tipo " + persona1.getClase());
 		System.out.println(persona2.getNombre() + " es de tipo " + persona2.getClase());
 		System.out.println(persona3.getNombre() + " es de tipo " + persona3.getClase());
+		System.out.println("prueba de ssh");
 	}
 
 }
